@@ -1,22 +1,19 @@
-[
-    {
-        "Author":  "Excelzn",
-        "Name":  "Shonin Sync",
-        "InternalName":  "ShoninSync",
-        "AssemblyVersion":  "1.3.0.0",
-        "Description":  "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
-        "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/excelznlifesblood-oss/client",
-        "Tags":  [
-                     "customization"
-                 ],
-        "DalamudApiLevel":  13,
-        "LoadPriority":  0,
-        "IconUrl":  "https://github.com/excelznlifesblood-oss/client/releases/download/v1.3.0.0/icon.png",
-        "Punchline":  "Let others see you as you see yourself.",
-        "IsHide":  "False",
-        "IsTestingExclusive":  "False",
-        "DownloadLinkInstall":  "https://github.com/excelznlifesblood-oss/client/releases/download/v1.3.0.0/latest.zip"
-    
-    }
-]
+{
+    "Author":  "Excelzn",
+    "Name":  "Shonin Sync",
+    "InternalName":  "ShoninSync",
+    "AssemblyVersion":  "1.3.1.0",
+    "Description":  "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+    "ApplicableVersion":  "any",
+    "RepoUrl":  "https://github.com/excelznlifesblood-oss/client",
+    "Tags":  [
+                 "customization"
+             ],
+    "DalamudApiLevel":  13,
+    "LoadPriority":  0,
+    "IconUrl":  "https://github.com/excelznlifesblood-oss/client/releases/download/v1.3.1.0/icon.png",
+    "Punchline":  "Let others see you as you see yourself.",
+    "IsHide":  "False",
+    "IsTestingExclusive":  "False",
+    "DownloadLinkInstall":  "https://github.com/excelznlifesblood-oss/client/releases/download/v1.3.1.0/latest.zip"
+}
