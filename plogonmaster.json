@@ -1,4 +1,5 @@
-{
+[
+    {
     "Author":  "Excelzn",
     "Name":  "Shonin Sync",
     "InternalName":  "ShoninSync",
@@ -16,4 +17,6 @@
     "IsHide":  "False",
     "IsTestingExclusive":  "False",
     "DownloadLinkInstall":  "https://github.com/excelznlifesblood-oss/client/releases/download/v1.3.1.0/latest.zip"
+
 }
+]
